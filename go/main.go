@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ETCDEVTeam/sputnikvm-ffi/go/sputnikvm"
+	"github.com/eth-classic/sputnikvm-ffi/go/sputnikvm"
 	"github.com/eth-classic/go-ethereum/common"
 )
 
