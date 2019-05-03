@@ -1,2 +1,3 @@
 main
 lib/libsputnikvm_go.so
+.vscode

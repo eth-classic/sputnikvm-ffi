@@ -36,7 +36,7 @@ import (
 	"math/big"
 	"unsafe"
 
-	"github.com/ethereumclassic/go-ethereum/common"
+	"github.com/eth-classic/go-ethereum/common"
 )
 
 type AccountChangeType int
